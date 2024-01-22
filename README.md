@@ -10,6 +10,7 @@ The Bank Management System is a Java-based application for managing various bank
 4. [Balance Inquiry Class](#balance-inquiry-class)
 5. [Deposit Class](#deposit-class)
 6. [Withdrawal Class](#withdrawal-class)
+7. [How to USE](#Usage)
 
 ## Connection Class
 
