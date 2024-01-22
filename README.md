@@ -54,6 +54,7 @@ Provide instructions on how to run the Bank Management System on a local machine
 4. Choose "Libraries."
 5. Click on the "+" button.
 6. Select the required libraries (jcalendar-tz-1.3.3-4, mysql-connector-java-8.0.28).
+7. Update password in Con(connection) class. Enter your Workbench password instead of "your_workbench_password".
 
 ## Screenshots
 
@@ -70,4 +71,3 @@ If you want to contribute to this project, fork the repository and submit a pull
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
