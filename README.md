@@ -48,6 +48,12 @@ The `Withdrawal` class manages withdrawal transactions. It ensures that users ha
 ## Usage
 
 Provide instructions on how to run the Bank Management System on a local machine. Include any dependencies, setup steps, or configuration needed.
+1. You need to add the provided libraries (jcalendar-tz-1.3.3-4, mysql-connector-java-8.0.28).
+2. To include these libraries, navigate to the "File" menu.
+3. Proceed to "Project Structures" or use the shortcut Ctrl + Alt + Shift + S.
+4. Choose "Libraries."
+5. Click on the "+" button.
+6. Select the required libraries (jcalendar-tz-1.3.3-4, mysql-connector-java-8.0.28).
 
 ## Screenshots
 
